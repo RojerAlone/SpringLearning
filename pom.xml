@@ -11,10 +11,11 @@
     <modules>
         <module>IOC</module>
         <module>Reactive</module>
+        <module>boot</module>
     </modules>
 
     <properties>
-        <spring.boot.version>2.1.1.RELEASE</spring.boot.version>
+        <spring.boot.version>2.1.8.RELEASE</spring.boot.version>
         <log4j.version>1.2.17</log4j.version>
     </properties>
 
